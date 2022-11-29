@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ahhwinr@gmail.com**
 
-- 📄 Know about my experiences [tinyurl.com/ashhwinr](tinyurl.com/ashhwinr)
+- 📄 Know about my experiences [ashhwinr](https://drive.google.com/file/d/1qNaNKkMeJZ9o4-pJ1ThesTwzUFhU4Jwr/view)
 
 - ⚡ Experience is the name **everyone gives to their mistakes.**
 
