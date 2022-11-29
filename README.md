@@ -19,7 +19,7 @@
 
 - 📱 Developed [StudyToday - SRMIST app](https://play.google.com/store/apps/details?id=pk.client&hl=en&gl=US)
 
-- 👨‍💻 All of my projects are available at [ashhwin.me](ashhwin.me)
+- 👨‍💻 All of my projects are available at [www.ashhwin.me](https://ashhwin.me/)
 
 - 💬 Ask me about **Java & Android**
 
