@@ -9,7 +9,7 @@
 <br>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/716ee7cc5fca4bf92e56eb8a21ecde1a6e8eb69e45be0d0fabccd9fefc395a1a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhwin-03&label=Profile%20views&color=0e75b6&style=flat" alt="ashhwin-03" /> </p>
-<br>
+
 - 🔭 I’m currently Studying **B.Sc Computer Science**
 
 - 🌱 I’m currently learning **Data Science & Cloud Computing**
