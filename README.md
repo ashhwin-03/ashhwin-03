@@ -1,3 +1,7 @@
+![logo](https://github.com/ashhwin-03/ashhwin-03/blob/main/Banner.png)
+<br>
+<br>
+<br>
 <h1 align="center">Hi 👋, I'm Ashhwin Chinniiah</h1>
 <br>
 <h4 align="center">I am passionate about the field of Computer Science and I’m seeking opportunities to enhance my skills and knowledge along with contributing to the growth of the organization. I have a positive attitude that will allow me to achieve targets within deadline.</h4>
