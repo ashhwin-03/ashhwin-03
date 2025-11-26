@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhwin-03&label=Profile%20views&color=0e75b6&style=flat" alt="ashhwin-03" /> </p>
 
-- 💻 Analyst at **Deloitte USI**
+- 💻 Associta Analyst at **Deloitte USI**
 
 - 🌱 I’m currently studing **MCA** at SRM University
 
